@@ -1,0 +1,3 @@
+---
+title: Hardy's Blog
+---
